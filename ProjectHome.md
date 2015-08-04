@@ -1,0 +1,1 @@
+This is a Software engineering project at the [Department of Computer](http://www.cs.up.ac.za), [University of Pretoria](http://web.up.ac.za). The main goal of this project is to develop a Web services following Event-B methodology from requirement to product delivery. The plug-in will be used to automate the translation between BPEL code and Event-B specifications.
